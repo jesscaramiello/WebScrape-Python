@@ -44,5 +44,4 @@ class Webscrape:
     plt.title("Article Count growth of Wikipedia")
     plt.xlabel("Year")
     plt.ylabel("Article count")
-    plt.axis
     plt.show()
